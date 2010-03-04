@@ -1,5 +1,6 @@
 I recommend using the "download source" link (way in the upper-right corner).
 
 ngrams: all of T-Rex's dialog
+ngrams_colonoscopy: like "ngrams", but with colons treated as words
 2grams: all pairs of words in T-Rex's dialog, with quantities
-3grams: all triples of words in T-Rex's dialogg, with quantities
+3grams: all triples of words in T-Rex's dialog, with quantities
