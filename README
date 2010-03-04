@@ -1,3 +1,5 @@
+I recommend using the "download source" link (way in the upper-right corner).
+
 ngrams: all of T-Rex's dialog
 2grams: all pairs of words in T-Rex's dialog, with quantities
 3grams: all triples of words in T-Rex's dialogg, with quantities
